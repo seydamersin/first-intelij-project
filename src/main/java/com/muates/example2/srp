@@ -1,0 +1,9 @@
+user class -> isim, soyisim telefon
+product class -> ürünadı fiyat ve stok
+
+UserService -> User createUser();
+ProductService -> Product createProduct();
+
+Fatura -> Constructor Injection(UserService, ProductService)
+
+String olarak bilgileri dönelim.

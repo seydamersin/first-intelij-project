@@ -1,0 +1,9 @@
+Bilgisyar class
+
+-> KeyboardService -> impl
+-> MonitörService -> impl
+-> MauseSerives -> impl
+-> Kulaklık -> impl
+
+Bilgisayar sınıfı içerisine servislerimizi constructor injection ile eekliyeceğiz
+

@@ -1,0 +1,11 @@
+
+
+-> Car -> createCar() {
+
+return String ->
+    model
+    ser
+    markası
+    vites
+
+-> Bmw Mercedes Audi
